@@ -1,0 +1,10 @@
+/* Styles for the image gallery */
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 40px;
+  }
+  
+  /* ... Rest of your CSS styles ... */
+  
